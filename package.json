@@ -1,0 +1,13 @@
+{
+  "name": "spevnik",
+  "author": { "name": "Kamila Součková", "url": "http://anotherkamila.github.com" },
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script-redux": "2.0.x",
+    "http-status": "0.1.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
+  }
+}
